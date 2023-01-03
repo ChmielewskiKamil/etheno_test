@@ -7,8 +7,8 @@ out/
 /broadcast/*/31337/
 /broadcast/**/dry-run/
 
-# Dotenv file
-.env
+# Dotenv file to be shown
+# .env
 
 # Slither
 .vscode
