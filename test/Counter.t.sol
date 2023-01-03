@@ -8,6 +8,7 @@ contract CounterTest is Test {
     Counter public counter;
 
     function setUp() public {
+        vm.broadcast();
         counter = new Counter();
         counter.setNumber(0);
     }
