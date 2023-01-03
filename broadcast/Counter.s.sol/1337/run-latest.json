@@ -24,7 +24,7 @@
     {
       "transactionHash": "0xb43de1ca702cb0459b4b3a3f01316911d38ef51acb20806510b035db7b977c5c",
       "transactionIndex": "0x0",
-      "blockHash": "0x0e0cb6d16a0c241104082f4faa00816ded6bbd1a3c9d7c4e9f3210149bfabebd",
+      "blockHash": "0x17e0d97664052eb847e39b8fa4abb1e7f14f7e87d6b10e47e327246986709a7b",
       "blockNumber": "0x1",
       "from": "0x6Ecbe1DB9EF729CBe972C83Fb886247691Fb6beb",
       "to": null,
@@ -42,8 +42,8 @@
   "pending": [],
   "path": "/Users/kamilchmielewski/Projects/etheno_test/broadcast/Counter.s.sol/1337/run-latest.json",
   "returns": {},
-  "timestamp": 1672778392,
+  "timestamp": 1672779835,
   "chain": 1337,
   "multi": false,
-  "commit": "1e09436"
+  "commit": "645ae9e"
 }
